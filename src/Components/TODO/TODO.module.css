@@ -1,0 +1,10 @@
+.D_f{
+    padding:10px
+}
+.delet_btn{
+    background-color: brown;
+    border-radius: 10px;
+    padding: 7px;
+    cursor: pointer;
+    font-size: 20px;
+}

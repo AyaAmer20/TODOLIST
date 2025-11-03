@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(131, 4, 89);
+}
+.updata_all_btn{
+  padding:20px;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  font-size: 20px;
+}

@@ -1,0 +1,18 @@
+
+.input_filded{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+
+}
+.btn{
+    background-color: rgb(62, 129, 206);
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: antiquewhite;
+}
